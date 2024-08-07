@@ -1,0 +1,101 @@
+{
+    "ventas": [
+        {
+            "id": 1,
+            "fecha de venta": {
+                "dia": 11,
+                "mes": 3,
+                "a\u00f1o": 2024
+            },
+            "cliente": {
+                "nombre": "miguel",
+                "direccion": "20-32 cll 2"
+            },
+            "empleado": {
+                "nombre": "luis",
+                "cargo": "vendedor"
+            },
+            "producto": {
+                "nombre": "Pan de Bono",
+                "cantidad": 10,
+                "precio": 700,
+                "precio_total": 7000
+            }
+        },
+        {
+            "id": 2,
+            "fecha de venta": {
+                "dia": 2,
+                "mes": 3,
+                "a\u00f1o": 2024
+            },
+            "cliente": {
+                "nombre": "jose",
+                "direccion": "20-cll1"
+            },
+            "empleado": {
+                "nombre": "carlos",
+                "cargo": "vendedor"
+            },
+            "producto": {
+                "nombre": "Pan de Queso",
+                "cantidad": 4,
+                "precio": 800,
+                "precio_total": 3200
+            }
+        }
+    ],
+    "compras": [
+        {
+            "id": 1,
+            "fecha de compra": {
+                "dia": 10,
+                "mes": 1,
+                "a\u00f1o": 2024
+            },
+            "proveedor": {
+                "nombre": "roman",
+                "contacto": "322847328"
+            },
+            "producto": {
+                "nombre": "Tropicana",
+                "cantidad": 4,
+                "precio": 10000
+            }
+        },
+        {
+            "id": 2,
+            "fecha de compra": {
+                "dia": 12,
+                "mes": 3,
+                "a\u00f1o": 2024
+            },
+            "proveedor": {
+                "nombre": "carlos",
+                "contacto": "3214725496"
+            },
+            "producto": {
+                "nombre": "leche",
+                "cantidad": 4,
+                "precio": 20000
+            }
+        },
+        {
+            "id": 3,
+            "fecha de compra": {
+                "dia": 3,
+                "mes": 4,
+                "a\u00f1o": 2024
+            },
+            "proveedor": {
+                "nombre": "carlos",
+                "contacto": "321444858"
+            },
+            "producto": {
+                "nombre": "Calentano",
+                "cantidad": 5,
+                "precio": 10000
+            }
+        }
+    ]
+}
